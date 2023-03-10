@@ -9,11 +9,11 @@ Ahora tenemos que crear el README desde la consola, que se hace utilizando el co
 
 ![image](https://user-images.githubusercontent.com/104781981/224255488-34f08bd9-5a2c-4ee3-b941-e9de31632eea.png)
 
-Dentro del nano ponemos lo que queramos dentro en este caso seria la explicación del git clone y su comando
+Dentro del nano ponemos lo que queramos, en este caso seria la explicación del git clone y su comando
 
 ![image](https://user-images.githubusercontent.com/104781981/224255757-1cc76c02-6c28-4626-9ae0-38086dac3238.png)
 
-Ahora utilizamos el comando add para poder añadir el archivo README al commit para subirlo con el push más tarde, que lo explico despues, el comando seria git add README.md
+Ahora utilizamos el comando add para poder preparar el archivo README para el commit para subirlo con el push más tarde, que lo explico despues, el comando seria git add README.md
 
 ![image](https://user-images.githubusercontent.com/104781981/224255991-a99a6d67-c3d3-4e29-9934-877b06bb0b85.png)
 
