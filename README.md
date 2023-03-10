@@ -167,3 +167,19 @@ Lo siguiente es utilizar el coamndo git commit -m "Un mensaje para el propietari
 Por ultimo para subir los cambios al repositorio online tenemos que hacer un git push origin "el nombre del branch" en este caso es git push origin branchTR
 
 ![image](https://user-images.githubusercontent.com/104781981/224288005-2631b478-fdf5-46d9-b5a9-f6e6b72a05ab.png)
+
+Para completar la pull request vamos al repositorio online del fork que hemos hecho y nos tiene que salir este mensaje 
+
+![image](https://user-images.githubusercontent.com/104781981/224293008-83bdcf82-d6ce-4c5d-a496-8d79188d6606.png)
+
+Al pulsar en compare and pull reuqest tiene que salir esta pagina y le tenemos que dar al boton de abajo de create pull request
+
+![image](https://user-images.githubusercontent.com/104781981/224293393-43a11933-d7ef-468f-bba4-a90278605563.png)
+
+Al pulsar pulsar el boton de create pull request nos tiene que llevar a esta pagina donde la cual te indica si se puede hacer o no la pull request 
+
+![image](https://user-images.githubusercontent.com/104781981/224293813-8a4e8ad7-d3e6-4d66-983f-8af6181616f7.png)
+
+Y si el propietario lo permite nos saldra lo siguiente, que significa que se ha completa el merge
+
+![image](https://user-images.githubusercontent.com/104781981/224293974-fab0df60-fd2d-44ba-9141-00a218a51e86.png)
