@@ -28,3 +28,39 @@ Sabiendo que lo anterior esta bien hecho ahora podemos utilizar el comando push 
 
 Gracias al push anterior ya he subido al repositorio del github el README
 ![image](https://user-images.githubusercontent.com/104781981/224254483-55e48997-8e2a-4c03-abee-98e91f38349e.png)
+
+Si ahora usamos el comando git status nos saldra que ya no hay nada para hacerle commit, que también es otra forma de comprobar que el push a funcionado bien
+![image](https://user-images.githubusercontent.com/104781981/224258702-bc49add3-5fee-4476-b4d8-c7515fe2c3e5.png)
+
+Para crear una carpeta en un directorio utilizamos el comando mkdir y el nombre, en este caso seria mkdir privada
+![image](https://user-images.githubusercontent.com/104781981/224259951-abd5fb2f-d6c6-4c54-abba-d6a05a506fd7.png)
+
+Para entrar dentro de la carpeta es igual que cuando quieres entrar dentro del repositorio con un cd, en este caso cd privada
+![image](https://user-images.githubusercontent.com/104781981/224260113-ca5693ac-0ce9-4853-8a6e-585828e717d6.png)
+
+Ahora creamos el archivo privado.txt con el nano, en este caso seria nano privado.txt
+![image](https://user-images.githubusercontent.com/104781981/224261222-4173bc57-8eb5-4cc9-8320-1efc0a0348b8.png)
+
+Dentro del archivo privado.txt, yo he puesto como seria imprimir por pantalla Hola mundo en Java
+![image](https://user-images.githubusercontent.com/104781981/224260908-1951cc8a-aa6c-469f-b5e6-10da750f87c0.png)
+
+Ahora para poder hacer que el github ignore la carpeta privada, primero tenemos que salir de la carpeta usando cd ..
+![image](https://user-images.githubusercontent.com/104781981/224261943-ad4e3fb0-5263-4b1e-839d-fff47422a796.png)
+
+Lo siguiente es crear el gitignore con un touch, el comando seria touch .gitignore
+![image](https://user-images.githubusercontent.com/104781981/224262470-df44e7d7-045d-4b0a-b745-bee28f4031b0.png)
+
+Para indicarle lo que tiene que ignorar utilizaremos un nano, para entrar dentro y ya dentro se lo indicamos, que el comando seria nano .gitignore
+![image](https://user-images.githubusercontent.com/104781981/224263779-8aa298be-f803-4d00-a077-e819444f513b.png)
+
+Dentro del nano del .gitignore tenemos que poner /nombrecarpeta, en este caso es /privada
+![image](https://user-images.githubusercontent.com/104781981/224263259-60b4696b-529e-4a33-bb95-ac0ac59f5eb2.png)
+
+Lo siguiente es crear un fichero llamado 1.txt, asi que utilizamos el comando touch 1.txt
+![image](https://user-images.githubusercontent.com/104781981/224265295-fa6d1cce-3cb6-468c-aa13-f5e2c36f3bae.png)
+
+Para añadir algo de texto dentro utilizaremos el comando nano, en este caso seria nano 1.txt
+![image](https://user-images.githubusercontent.com/104781981/224265380-63998cb5-faf9-4e65-a4bf-2a226e1ac2f7.png)
+
+Dentro del nano yo he puesto como es un print en Python
+![image](https://user-images.githubusercontent.com/104781981/224265177-cb82c4f5-1e26-41e2-94f5-95a2fbc31e4b.png)
