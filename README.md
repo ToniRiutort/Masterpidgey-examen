@@ -103,3 +103,7 @@ Ahora voy a subir lo que llevo hecho hasta ahora al repositorio online, asi que 
 
 ![image](https://user-images.githubusercontent.com/104781981/224270382-a482544f-6823-4fa8-9dde-24abf43f5d0c.png)
 
+Ahora toca hacer el commit de todo lo anterior y el comando seria git commit -m "Segundo commit"
+
+![image](https://user-images.githubusercontent.com/104781981/224271288-245db36a-8bd9-4f71-942c-87f10b3570d4.png)
+
