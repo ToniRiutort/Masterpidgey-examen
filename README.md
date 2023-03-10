@@ -107,3 +107,21 @@ Ahora toca hacer el commit de todo lo anterior y el comando seria git commit -m 
 
 ![image](https://user-images.githubusercontent.com/104781981/224271288-245db36a-8bd9-4f71-942c-87f10b3570d4.png)
 
+Ahora toca usar el push para subirlos al repositorio online
+
+![image](https://user-images.githubusercontent.com/104781981/224279187-ed68d566-a274-4707-bb6f-95ed24550229.png)
+
+Ahora tenemos que hacer un tag llamado v0.1, asi que utilizamos el comando git tag v0.1
+
+![image](https://user-images.githubusercontent.com/104781981/224279648-fae9013f-5ed5-40ce-a0a6-f2aa50a78809.png)
+
+Para subir el tag al repositorio online utilizaremos el comando git push origin v0.1
+
+![image](https://user-images.githubusercontent.com/104781981/224279724-e1c54df7-42a7-4e67-871f-13f2dc59aeb1.png)
+
+Segunda visualización de los commits hechos hasta ahora, aunque al intentar hacer el push de la carpeta privada, del .gitignore y del 1.txt, he tenido unos problemas ya que el README del repositorio online no coincidia con el del local asi que he tenido que hacer un remote, un fetch y el merge
+
+![image](https://user-images.githubusercontent.com/104781981/224278627-f63afa68-c8e0-49b3-81a7-16e50723bf6a.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224278725-cc7bab02-bd3c-42a9-afc9-88823ee59f19.png)
+
