@@ -107,7 +107,7 @@ Ahora toca hacer el commit de todo lo anterior y el comando seria git commit -m 
 
 ![image](https://user-images.githubusercontent.com/104781981/224271288-245db36a-8bd9-4f71-942c-87f10b3570d4.png)
 
-Ahora toca usar el push para subirlos al repositorio online
+Despues de una par de contratiempos que explico más adelante, lo siguiente es usar el push para subirlos al repositorio online
 
 ![image](https://user-images.githubusercontent.com/104781981/224279187-ed68d566-a274-4707-bb6f-95ed24550229.png)
 
@@ -119,7 +119,7 @@ Para subir el tag al repositorio online utilizaremos el comando git push origin 
 
 ![image](https://user-images.githubusercontent.com/104781981/224279724-e1c54df7-42a7-4e67-871f-13f2dc59aeb1.png)
 
-Segunda visualización de los commits hechos hasta ahora, aunque al intentar hacer el push de la carpeta privada, del .gitignore y del 1.txt, he tenido unos problemas ya que el README del repositorio online no coincidia con el del local asi que he tenido que hacer un remote, un fetch y el merge
+Segunda visualización de los commits hechos hasta ahora, que las capturas empiezan el con el ultimo que se ve en el anterior apartado de visualización de commits, aunque al intentar hacer el push de la carpeta privada, del .gitignore y del 1.txt, he tenido unos problemas ya que el README del repositorio online no coincidia con el del local asi que he tenido que hacer un remote, un fetch y el merge
 
 ![image](https://user-images.githubusercontent.com/104781981/224278627-f63afa68-c8e0-49b3-81a7-16e50723bf6a.png)
 
