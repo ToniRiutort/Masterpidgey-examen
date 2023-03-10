@@ -30,6 +30,7 @@ Gracias al push anterior ya he subido al repositorio del github el README
 ![image](https://user-images.githubusercontent.com/104781981/224254483-55e48997-8e2a-4c03-abee-98e91f38349e.png)
 
 Si ahora usamos el comando git status nos saldra que ya no hay nada para hacerle commit, que también es otra forma de comprobar que el push a funcionado bien
+
 ![image](https://user-images.githubusercontent.com/104781981/224258702-bc49add3-5fee-4476-b4d8-c7515fe2c3e5.png)
 
 Para crear una carpeta en un directorio utilizamos el comando mkdir y el nombre, en este caso seria mkdir privada
@@ -51,6 +52,7 @@ Lo siguiente es crear el gitignore con un touch, el comando seria touch .gitigno
 ![image](https://user-images.githubusercontent.com/104781981/224262470-df44e7d7-045d-4b0a-b745-bee28f4031b0.png)
 
 Para indicarle lo que tiene que ignorar utilizaremos un nano, para entrar dentro y ya dentro se lo indicamos, que el comando seria nano .gitignore
+
 ![image](https://user-images.githubusercontent.com/104781981/224263779-8aa298be-f803-4d00-a077-e819444f513b.png)
 
 Dentro del nano del .gitignore tenemos que poner /nombrecarpeta, en este caso es /privada
