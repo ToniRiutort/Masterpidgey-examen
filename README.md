@@ -183,3 +183,6 @@ Al pulsar pulsar el boton de create pull request nos tiene que llevar a esta pag
 Y si el propietario lo permite nos saldra lo siguiente, que significa que se ha completa el merge
 
 ![image](https://user-images.githubusercontent.com/104781981/224293974-fab0df60-fd2d-44ba-9141-00a218a51e86.png)
+
+##Conclusión
+Este examen me ha obligado a demostrar todo los que sabia, ya sea por el problema planteado o por los problemas que me ha ido surgiendo miestras lo hacia, lo que me ha ayudado a consolidar y confiar más en lo aprendido. 
