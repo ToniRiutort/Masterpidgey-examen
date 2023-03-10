@@ -1,3 +1,4 @@
+# Masterpidgey-examen
 Lo primero despues de crear el repositorio hay que hacer una copia en local con el comando git clone y el nombre del repositorio, en este caso seria git clone https://github.com/ToniRiutort/masterpidgey-examen.git
 
 ![image](https://user-images.githubusercontent.com/104781981/224254758-99171e4f-9673-47f5-b477-a2762bcf8333.png)
