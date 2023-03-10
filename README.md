@@ -82,3 +82,9 @@ Dentro del nano yo he puesto como es un print en Python
 
 ![image](https://user-images.githubusercontent.com/104781981/224266291-f9816be1-871a-4497-be80-efe597bc5a8c.png)
 
+Comandos usador hasta ahora, hay un par de push, ya que no me aclaraba de como ponerlo
+
+![image](https://user-images.githubusercontent.com/104781981/224266900-375fcd6c-f70a-4d1d-b2aa-b2543df3b61d.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224267074-1ad92cd4-a2c3-4e35-9a1f-b5b7a8f06eb9.png)
+
