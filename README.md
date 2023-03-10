@@ -125,3 +125,6 @@ Segunda visualización de los commits hechos hasta ahora, que las capturas empie
 
 ![image](https://user-images.githubusercontent.com/104781981/224278725-cc7bab02-bd3c-42a9-afc9-88823ee59f19.png)
 
+|        NOMBRE          |                       LINK                        |
+|------------------------|---------------------------------------------------|
+| Máximo Fernández Riera | [link a su github](https://github.com/maximofernandezriera) |
