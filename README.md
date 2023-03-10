@@ -89,3 +89,17 @@ Comandos usador hasta ahora, hay un par de push, ya que no me aclaraba de como p
 
 ![image](https://user-images.githubusercontent.com/104781981/224267074-1ad92cd4-a2c3-4e35-9a1f-b5b7a8f06eb9.png)
 
+Ahora voy a subir lo que llevo hecho hasta ahora al repositorio online, asi que primero hay que hacer el add de todo lo anterior, de la carpeta privada, del .gitignore y del fichero 1.txt
+
+![image](https://user-images.githubusercontent.com/104781981/224269974-135dbd12-d25c-46c9-9a0c-722ff95a649c.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224270101-502133b5-5407-4c22-9c82-014745d8c3ff.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224270176-24814045-e455-415d-8657-127231a74a45.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224270256-8c50cdf2-5954-4425-9a5c-24289b603d34.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224270328-2b686618-42e4-48dd-a161-fed857d6a253.png)
+
+![image](https://user-images.githubusercontent.com/104781981/224270382-a482544f-6823-4fa8-9dde-24abf43f5d0c.png)
+
