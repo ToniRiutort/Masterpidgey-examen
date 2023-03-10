@@ -1,4 +1,5 @@
 # Masterpidgey-examen
+## Primera parte
 Lo primero despues de crear el repositorio hay que hacer una copia en local con el comando git clone y el nombre del repositorio, en este caso seria git clone https://github.com/ToniRiutort/masterpidgey-examen.git
 
 ![image](https://user-images.githubusercontent.com/104781981/224254758-99171e4f-9673-47f5-b477-a2762bcf8333.png)
@@ -128,3 +129,41 @@ Segunda visualización de los commits hechos hasta ahora, que las capturas empie
 |        NOMBRE          |                       LINK                        |
 |------------------------|---------------------------------------------------|
 | Máximo Fernández Riera | [link a su github](https://github.com/maximofernandezriera) |
+
+## Segunda parte
+Lo primero de todo hay que hacer fork del repositorio
+
+![image](https://user-images.githubusercontent.com/104781981/224283349-3f12f11a-71d0-4061-8fc9-555f87d517fb.png)
+
+Ahora copiamos el link de nuestro fork y lo clonamos en la consola y entramos al clonado, eso lo hacemos utilizando los siguientes comando, git clone y link de lo que queremos clonar, en este caso seria git clone https://github.com/ToniRiutort/first-contributions.git y cd y el nombre de lo que acabamos de clonar, en este caso seria cd first-contributions/, para clonar y entrar respectivamente
+
+![image](https://user-images.githubusercontent.com/104781981/224284007-a060eee5-00db-4738-8f8e-297059e495ea.png)
+
+Ya dentro del repositorio clonado creamos un branch, si utilizamos el comando git switch -c branchTR, creamos y entramos al mismo tiempo al branch, para hacer nuestros cambios hay para luego subirlos al original
+
+![image](https://user-images.githubusercontent.com/104781981/224284825-74a18b4a-cb81-48cc-b6c7-2ab56e3078c9.png)
+
+
+Dentro del branch creamos un txt gracias al nano, para poder hacer una contribución
+
+![image](https://user-images.githubusercontent.com/104781981/224286041-86005a86-c81c-4c16-a41a-1f353438655c.png)
+
+Dentro del nano ponemos nuestra contribución
+
+![image](https://user-images.githubusercontent.com/104781981/224285842-5709c556-5324-4442-807b-4198956a9af8.png)
+
+Ahora si utilizamos un git status nos va a indicar que hay un cambio respecto al original
+
+![image](https://user-images.githubusercontent.com/104781981/224286532-a0a3180b-cc0f-4b1b-88c1-212db54209ee.png)
+
+Para poder subir los cambios al original primero tenemos que usar el comando git add y lo que queremos añadir en este caso seria git add ToniRiutort_examenpullrequest.txt
+
+![image](https://user-images.githubusercontent.com/104781981/224286994-39fcaed7-60fb-44fb-b915-b19768a9921b.png)
+
+Lo siguiente es utilizar el coamndo git commit -m "Un mensaje para el propietario para que lo acepte nuestros cambios", que en este caso seria git commit -m "Contribución para el examen"
+
+![image](https://user-images.githubusercontent.com/104781981/224287307-756d3342-e31a-4933-9137-4a95d820a2d8.png)
+
+Por ultimo para subir los cambios al repositorio online tenemos que hacer un git push origin "el nombre del branch" en este caso es git push origin branchTR
+
+![image](https://user-images.githubusercontent.com/104781981/224288005-2631b478-fdf5-46d9-b5a9-f6e6b72a05ab.png)
