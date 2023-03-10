@@ -80,4 +80,5 @@ Para añadir algo de texto dentro utilizaremos el comando nano, en este caso ser
 
 Dentro del nano yo he puesto como es un print en Python
 
-![image](https://user-images.githubusercontent.com/104781981/224265177-cb82c4f5-1e26-41e2-94f5-95a2fbc31e4b.png)
+![image](https://user-images.githubusercontent.com/104781981/224266291-f9816be1-871a-4497-be80-efe597bc5a8c.png)
+
